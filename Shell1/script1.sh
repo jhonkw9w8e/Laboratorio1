@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "========== BACKUP =========="
+echo "========== DEPLOY =========="
 echo "Nodo: $(hostname)"
-date
+echo "Simulando deploy..."
